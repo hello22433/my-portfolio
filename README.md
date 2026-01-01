@@ -1,6 +1,6 @@
 # 💻 Lee Se-jun | Backend Developer Portfolio
 
-:books: Detail : https://www.notion.so/2dab333bc3738083b32dc28fb86ffe42
+📚Detail : https://www.notion.so/2dab333bc3738083b32dc28fb86ffe42
 
 > **"Frameworks come and go, but Fundamentals remain."**
 > 프레임워크(React, Vue) 없이 순수 HTML, CSS, JavaScript만으로 구축한 포트폴리오 사이트입니다.
